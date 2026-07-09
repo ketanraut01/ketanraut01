@@ -61,13 +61,6 @@ Become a Software Engineer and contribute to impactful real-world applications.
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,linux"/>
-
-</p>
 
 ---
 
@@ -81,57 +74,7 @@ Become a Software Engineer and contribute to impactful real-world applications.
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanraut01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanraut01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ketanraut01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanraut01&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ketanraut01&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 🐍 Snake Contribution Animation
-
-> Enable the GitHub Action described below so this image updates automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ketanraut01/ketanraut01/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
