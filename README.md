@@ -120,7 +120,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="ketanraut0007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
