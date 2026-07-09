@@ -1,95 +1,141 @@
-<h1 align="center">Hi 👋, I'm Ketan Raut</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Web Developer | Engineering Student from India 🇮🇳</h3>
+# Hi 👋, I'm Ketan Raut
 
----
+### Full Stack Web Developer | Engineering Student | India 🇮🇳
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-- 🎓 Engineering Student
-- 🌱 Currently learning **Node.js, Express.js, MongoDB**
-- 💻 Interested in Full Stack Web Development
-- 📚 Learning Java, Python, SQL & DSA
-- 🚀 Building real-world projects
-- 📫 Reach me: your-email@example.com
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+🎓 Engineering Student
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+💻 Passionate about Full Stack Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🌱 Currently learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- DSA
 
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🚀 Love building real-world projects
 
----
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+📫 Email: your-email@gmail.com
 
 ---
 
-### Backend
+# 💻 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p align="center">
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode"/>
 
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+⭐ Hotel Booking System
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+⭐ MongoDB CRUD App
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+⭐ Portfolio Website
 
----
+⭐ Digi-Grow Digital Business Card
 
-## 🏆 GitHub Trophies
+⭐ Power BI Dashboard
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🔥 Current Projects
-
-- 🏨 Hotel Booking System
-- 📊 Power BI Dashboard
-- 🌐 Portfolio Website
-- 📱 Digi-Grow Digital Business Card
+⭐ Java Mini Projects
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### ✨ Quote
+# 🔥 GitHub Streak
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+> This requires a GitHub Action (explained below).
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</div>
