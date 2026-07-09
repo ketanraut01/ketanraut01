@@ -30,7 +30,6 @@ Dream     : Software Engineer
 
 * 🌐 Full Stack Web Applications
 * 📱 Responsive Websites
-* ☁ REST APIs
 * 📊 Dashboards
 * 🤖 AI Integrated Projects
 
