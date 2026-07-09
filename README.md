@@ -1,20 +1,32 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
 
-# Hi 👋, I'm Ketan Raut
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Ketan%20Raut&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Engineering%20Student&descAlignY=58"/>
+</p>
 
-### Full Stack Web Developer | Engineering Student | India 🇮🇳
+<h1 align="center">Hi 👋 I'm Ketan Raut</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies;Open+Source+Enthusiast)](https://git.io/typing-svg)
+<h3 align="center">
+Full Stack Web Developer • Java • Python • Node.js • MongoDB
+</h3>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ketanraut01&style=for-the-badge&color=0e75b6"/>
+
+</p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 Engineering Student
+🚀 Engineering Student from India 🇮🇳
 
 💻 Passionate about Full Stack Development
 
@@ -24,47 +36,58 @@
 - Express.js
 - MongoDB
 - MySQL
-- DSA
+- Java
+- Python
+- Data Structures & Algorithms
 
-🚀 Love building real-world projects
+🎯 Goal
 
-📫 Email: your-email@gmail.com
+Become a Software Engineer and contribute to impactful real-world applications.
+
+📫 Email
+
+**ketanraut0007@gmail.com**
 
 ---
 
-# 💻 Tech Stack
+# 🤖 AI Developer Banner
+
+```text
+╭────────────────────────────────────────────╮
+│ AI + Web Development + Cloud + DSA         │
+│ Building Real Projects Every Day 🚀        │
+╰────────────────────────────────────────────╯
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Currently Working On
 
-⭐ Hotel Booking System
-
-⭐ MongoDB CRUD App
-
-⭐ Portfolio Website
-
-⭐ Digi-Grow Digital Business Card
-
-⭐ Power BI Dashboard
-
-⭐ Java Mini Projects
+- 🏨 Hotel Booking System
+- 🌐 Personal Portfolio Website
+- ☁️ MongoDB CRUD Application
+- 📊 Power BI Dashboard
+- 📱 Digi-Grow Digital Business Card
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanraut01&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanraut01&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -74,7 +97,17 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ketanraut01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanraut01&theme=tokyo-night"/>
 
 </p>
 
@@ -84,58 +117,65 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ketanraut01&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Snake Contribution Animation
+
+> Enable the GitHub Action described below so this image updates automatically.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/ketanraut01/ketanraut01/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🚀 Featured Projects
 
-> This requires a GitHub Action (explained below).
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+| Project | Tech Stack |
+|---------|------------|
+| 🏨 Hotel Booking System | HTML • CSS • JavaScript • Node.js • MongoDB |
+| 🌐 Portfolio Website | HTML • CSS • JavaScript |
+| ☁️ MongoDB CRUD App | Node.js • Express • MongoDB |
+| 📱 Digi-Grow Business Card | QR Code • JavaScript |
+| 📊 Power BI Dashboard | Power BI |
+| 💻 Java Mini Projects | Java |
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/ketanraut01">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="ketanraut0007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/ketanraut-in">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ketanraut0007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Developer Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:06b6d4,50:2563eb,100:0f172a"/>
 
-</div>
+</p>
